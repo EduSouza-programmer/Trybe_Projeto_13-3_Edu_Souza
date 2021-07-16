@@ -54,7 +54,7 @@ Você deverá implementar um pequeno conjunto de componentes, alguns possuindo e
 - <p><a href="#3"> :pushpin: 3.</a> `MovieCard`: deve possuir um link para a página de detalhes de um filme.</p>
 - <p><a href="#4"> :pushpin: 4.</a> `MovieDetails`: deve fazer uma requisição para buscar o filme que deverá ser renderizado.</p>
 - <p><a href="#5"> :pushpin: 5.</a> `EditMovie`: deve realizar uma requisição para buscar o filme que será editado.</p>
-- <p><a href="#6"> :pushpin: 6.</a> `NewMovie`: Na página inicial, deve haver um link para criar novos cartões..</p>
+- <p><a href="#6"> :pushpin: 6.</a> `NewMovie`: Na página inicial, deve haver um link para criar novos cartões.</p>
 - <p><a href="#7"> :pushpin: 7.</a> Adicione proptypes a todos os componentes.</p>
 - <p><a href="#8"> :pushpin: 8.</a> Adicione um link para deletar um cartão em `MovieDetails`.</p>
   
